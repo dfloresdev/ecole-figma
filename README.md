@@ -53,19 +53,19 @@ Alineando la estrategía con los objetivos de figma, se propone lo siguiente:
 #### Planteamineto de estrategia
 
 1. Figma crea un hackaton de diseño, las empresas patrocinan este evento y los equipos dan un rediseño de sus UI actuales.
-   - El crear una comunidad solida y sostenida por diseñadores creara lazos fuertes y un compromiso por seguir usando el producto, al ser una comunidad que genere mejora continua y aportaciones, se vuelve un producto atractivo a grandes empresas por el gran soporte que esto significa.
+   - El crear una comunidad sólida y sostenida por diseñadores creara lazos fuertes y un compromiso por seguir usando el producto, al ser una comunidad que genere mejora continua y aportaciones, se vuelve un producto atractivo a grandes empresas por el gran soporte que esto significa.
    - Al estar dirigido a comunidades se logra obtener la mejor publicidad el "boca en boca" de usuarios comunes y empresas, permitiendo ahorrar grandes cantidades de dinero en marketing para ese recurso ser usado en el crecimiento y fortalecimiento de la comunidad.
 2. Permitir comunicación con desarrolladores dentro del producto
-   - Si los equipos logran tener una mejor perspectiva del producto a desarrollar y ver esto desde diferentes ambitos, permite generar un producto de exelente calidad y con una continua fluidez entre todos los equipos (UX, Desarrollo, QC).
-   - Con el punto anterior se logra cubrir el gap entre equipos internos, conviritendo a figma en el pionero de la integracipon de equipos con el minimo esfuerzo
-   - Al estar integrados los equipos, permite una facil participación de todos en el producto y el levantar un issue o una mejor estrategia de diseño/desarrollo sería mas eficiente
-3. Definición de estandares y buenas prácticas para documentar o crear releases
+   - Si los equipos logran tener una mejor perspectiva del producto a desarrollar y ver esto desde diferentes ámbitos, permite generar un producto de excelente calidad y con una continua fluidez entre todos los equipos (UX, Desarrollo, QC).
+   - Con el punto anterior se logra cubrir el gap entre equipos internos, convirtiendo a figma en el pionero de la integración de equipos con el mínimo esfuerzo
+   - Al estar integrados los equipos, permite una fácil participación de todos en el producto y el levantar un issue o una mejor estrategia de diseño/desarrollo sería más eficiente
+3. Definición de estándares y buenas prácticas para documentar o crear releases
    - El mantener el objetivo siempre visible permite tener consistencia y por lo tanto un mayor entendimiento por parte de todos los participantes
-   - El tener una extensa documentación de componentes dificulta la colaboración/propuesta de los nuevos integrantes ya que puede dañar el funcionamiento, con un eestandar definido, ese riesgo se vuelve minimo y pudieran existir diferentes variantes o propuestas de lo existente
+   - El tener una extensa documentación de componentes dificulta la colaboración/propuesta de los nuevos integrantes ya que puede dañar el funcionamiento, con un estándar definido, ese riesgo se vuelve mínimo y pudieran existir diferentes variantes o propuestas de lo existente
 4. Exportar desde correo elementos, slack, drive, etc
-   - Sin perder el objetivo de "el diseño sea accesible al mundo", integrar este "bucket" colaborativo donde podamos ingresar recursos desde cualquier recurso externo, permite una colaboración de assets de una manera rapida y centralizada
-5. Vinculación con variables del codigo de tu proyecto
-   - Este feature permite la visualización inmediata del estado de colores, medidas, etc. de modo que colaboradores (incluyendo developers), de modo que si algun elemento se modificó, pueda ser detectado inmediatamente.
+   - Sin perder el objetivo de "el diseño sea accesible al mundo", integrar este "bucket" colaborativo donde podamos ingresar recursos desde cualquier recurso externo, permite una colaboración de assets de una manera rápida y centralizada
+5. Vinculación con variables del código de tu proyecto
+   - Este feature permite la visualización inmediata del estado de colores, medidas, etc. de modo que colaboradores (incluyendo developers), de modo que, si algún elemento se modificó, pueda ser detectado inmediatamente.
    - Lo anterior generaría entornos de armonía para evitar fricciones entre equipos o los problemas comunes entre diseñadores y desarrolladores cuando existe un cambio sin previo aviso
-6. Testeo de prototipos y obtención de metricas relevantes
-   - Las mediciones son lo mas importante en el diseño para saber si es lo que los usuarios objetivo son lo que necesitan, por lo que exponer diseños a usuarios de prueba y obención de metricas sobre su uso, son de suma importancia para todos los niveles de la organización ya que el escuchar al usuario hace un producto éxitoso.
+6. Testeo de prototipos y obtención de métricas relevantes
+   - Las mediciones son lo mas importante en el diseño para saber si es lo que los usuarios objetivo son lo que necesitan, por lo que exponer diseños a usuarios de prueba y obtención de métricas sobre su uso, son de suma importancia para todos los niveles de la organización ya que el escuchar al usuario hace un producto exitoso.
