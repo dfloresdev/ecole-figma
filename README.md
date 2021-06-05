@@ -50,22 +50,42 @@ Alineando la estrategía con los objetivos de figma, se propone lo siguiente:
 
 ##### [Todo el proceso creativo](https://www.figma.com/file/banSuuwQRz1su1pIGuS79W/11Starts?node-id=0%3A1)
 
-#### Planteamineto de estrategia
+## Estrategia
 
-1. Figma crea un hackaton de diseño, las empresas patrocinan este evento y los equipos dan un rediseño de sus UI actuales.
-   - El crear una comunidad sólida y sostenida por diseñadores creara lazos fuertes y un compromiso por seguir usando el producto, al ser una comunidad que genere mejora continua y aportaciones, se vuelve un producto atractivo a grandes empresas por el gran soporte que esto significa.
-   - Al estar dirigido a comunidades se logra obtener la mejor publicidad el "boca en boca" de usuarios comunes y empresas, permitiendo ahorrar grandes cantidades de dinero en marketing para ese recurso ser usado en el crecimiento y fortalecimiento de la comunidad.
-2. Permitir comunicación con desarrolladores dentro del producto
-   - Si los equipos logran tener una mejor perspectiva del producto a desarrollar y ver esto desde diferentes ámbitos, permite generar un producto de excelente calidad y con una continua fluidez entre todos los equipos (UX, Desarrollo, QC).
-   - Con el punto anterior se logra cubrir el gap entre equipos internos, convirtiendo a figma en el pionero de la integración de equipos con el mínimo esfuerzo
-   - Al estar integrados los equipos, permite una fácil participación de todos en el producto y el levantar un issue o una mejor estrategia de diseño/desarrollo sería más eficiente
-3. Definición de estándares y buenas prácticas para documentar o crear releases
-   - El mantener el objetivo siempre visible permite tener consistencia y por lo tanto un mayor entendimiento por parte de todos los participantes
-   - El tener una extensa documentación de componentes dificulta la colaboración/propuesta de los nuevos integrantes ya que puede dañar el funcionamiento, con un estándar definido, ese riesgo se vuelve mínimo y pudieran existir diferentes variantes o propuestas de lo existente
+A lo largo de nuestra estrategia planteamos 6 aspectos en los cuales figma podría mejorar para crear un mayor acercamiento a la comunidad de diseñadores y desarrolladores creando un compromiso con quienes participan en la comunidad y un respaldo social para afianzarse más con quienes implementan e implementarán sus productos.
+
+Con base en la premisa de que figma siempre ha propendido por la apertura a comunidades y usuarios a través de herramientas libres se quiso complementar lo que es actualmente figma, esto se realizó a partir del framework de 11 estrellas con lo cual se partió de lo que ofrecen actualmente a través de su producto principal y se idearon alternativas y posibles mejoras de manera gradual hasta llegar a las 11 estrellas. Las siguientes 6 propuestas fueron propuestas en el rango entre 6 y 8 estrellas, teniendo en cuenta la viabilidad de las mismas.
+
+1. La promoción de un hackaton de diseño, patrocinado por Las empresas para que los equipos den un rediseño de sus UI actuales.
+
+Esto ayuda a crear una comunidad fuerte y sostenida por los mismos diseñadores creando lazos y un compromiso de seguir usando la aplicación y mejor aún que sean los mismos usuarios los que recomienden la aplicación sin generar un gasto excesivo en marketing, más bien el dinero ahorrado podrá ayudar a seguir creando más eventos para entrenar a nuevos usuarios
+
+Sumando a las empresas con lo cual se brinda un respaldo mayor a la comunidad y así mismo un compromiso, sabiendo que se están diseñando proyectos que pueden ser promovidos dentro de las organizaciones.
+
+2. Permitir comunicación con desarrolladores
+ 
+Sin olvidar el objetivo "que el diseño sea accesible al mundo", Figma ha integrado dos grandes herramientas, Figma para diseñar y prototipar y FigJam para ideación con los equipos de trabajo, pero sigue habiendo un vacío con los desarrolladores.
+ 
+Permitiendo generar una comunicación más directa con los desarrolladores se podría generar un compromiso al usar la plataforma siendo los pioneros en integrar las tres áreas más fuertes al crear productos mejorando el rendimiento, documentación y comunicación de todo el equipo de trabajo.
+ 
+Esto brinda la posibilidad de que los desarrolladores se animen a participar más de los procesos de diseño al poder comprender mejor los por qué, para qué y cómo. Lo cual, daría mayor soporte para que los developers puedan dar su opinión a diseñadores y viceversa, generando una mayor confianza y un efecto de social proof a partir de la interacción y asociación.
+ 
+3. Estándares y buenas prácticas para documentar o crear releases
+ 
+Tener una herramienta que limite al diseñador y lo enmarque en acuerdos ya predefinidos genera consistencia en el equipo y en los elementos visuales, generando orden y entendimiento para todos los colaboradores.
+ 
+Esto también le serviría a los nuevos integrantes del equipo, ya que les permite tener un ambiente sano de diseño en dónde podrían aportar sus ideas sin que puedan llegar a dañar lo que se ha realizado y afianzando su participación.
+ 
 4. Exportar desde correo elementos, slack, drive, etc
-   - Sin perder el objetivo de "el diseño sea accesible al mundo", integrar este "bucket" colaborativo donde podamos ingresar recursos desde cualquier recurso externo, permite una colaboración de assets de una manera rápida y centralizada
+ 
+La vinculación con diferentes productos digitales de almacenamiento permitirá una mayor velocidad para el equipo
+ 
 5. Vinculación con variables del código de tu proyecto
-   - Este feature permite la visualización inmediata del estado de colores, medidas, etc. de modo que colaboradores (incluyendo developers), de modo que, si algún elemento se modificó, pueda ser detectado inmediatamente.
-   - Lo anterior generaría entornos de armonía para evitar fricciones entre equipos o los problemas comunes entre diseñadores y desarrolladores cuando existe un cambio sin previo aviso
-6. Testeo de prototipos y obtención de métricas relevantes
-   - Las mediciones son lo mas importante en el diseño para saber si es lo que los usuarios objetivo son lo que necesitan, por lo que exponer diseños a usuarios de prueba y obtención de métricas sobre su uso, son de suma importancia para todos los niveles de la organización ya que el escuchar al usuario hace un producto exitoso.
+ 
+Entregar la responsabilidad al diseñador de crear, editar, modificar y exportar variables creará un entorno de mayor entendimiento e inmersión entre diseño y código, dejando la responsabilidad al desarrollador de estar atento a los cambios visuales del la aplicación, creando un compromiso mayor del diseñador acerca de  buenas prácticas  y orden en su diseño
+ 
+Además brindaría una mayor armonía al momento de trabajar y un flujo continuo en donde las diferentes partes se hacen responsables de su trabajo sin tener interrupciones continuas y pudiendo aprovechar esos tiempos para las labores más creativas lo cual mejora la experiencia al momento de diseñar y desarrollar.
+ 
+6. Que te brinde la posibilidad de testear tus prototipos y obtener métricas relevantes
+ 
+Esto le abre las puertas a la participación de los usuarios, brindándole información relevante tanto a diseñadores, cómo desarrolladores y directores de producto, lo cual puede aumentar la cantidad de insights durante el proceso de diseño y él compromiso de todo el equipo para optimizar y mejorar el producto, sus diferentes funcionalidades y servicios.
